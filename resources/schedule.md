@@ -1,5 +1,3 @@
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Week  | Class Dates | Reading |    Optional Reading   |                Topics                      |
+|:-----:|-------------| --------| ----------------------|--------------------------------------------|
+|   1   |  8.25-8.27  | 1.1-1.2 | programming tutorials | systems of linear equations, reduced forms |
