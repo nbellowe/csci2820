@@ -1,5 +1,6 @@
 #CSCI 2820 Calendar
 
+Note: This schedule is a rough approximation and subject to change.
 
 | Week  | Class Dates  | Reading |    Optional Reading   |                Topics                      |
 |:-----:|:------------:| --------| ----------------------|--------------------------------------------|
@@ -19,4 +20,4 @@
 |  14   | 11.24-11.26  |         |                       | Fall Break -- No Class                     |
 |  15   | 12.01-12.03  |         |                       |                                            |
 |  16   | 12.08-12.10  |         |                       |                                            |
-|  17   | 12.15-12.17  |         |                       | Final Exam                                 |
+|  17   | 12.15-12.17  |         |                       | Final Exam -- Dec 15th -- 7:30-10pm        |
