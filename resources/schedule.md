@@ -4,7 +4,7 @@ Note: This schedule is a rough approximation and subject to change.
 
 | Week  | Class Dates  | Reading       |    Optional Reading   |                Topics                                 |
 |:-----:|:------------:| --------------| ----------------------|-------------------------------------------------------|
-|   1   | 08.25-08.27  | 1.1, 2.1      | programming tutorials | vectors, systems of linear equations                  |
+|   1   | 08.25-08.27  | 1.1, 2.1, 2.2 | programming tutorials | vectors, systems of linear equations                  |
 |   2   | 09.01-09.03  |               |                       | solution sets for linear systems, reduced forms       |
 |   3   | 09.08-09.10  |               |                       | solving Ax=b, linear independence                     |
 |   4   | 09.15-09.17  |               |                       | linear transforms, matrix operations                  |
