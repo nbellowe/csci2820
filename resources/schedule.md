@@ -5,7 +5,7 @@ Note: This schedule is a rough approximation and subject to change.
 | Week  | Class Dates  | Reading       |    Optional Reading   |                Topics                                 |
 |:-----:|:------------:| --------------| ----------------------|-------------------------------------------------------|
 |   1   | 08.25-08.27  | 1.1, 2.1, 2.2 | programming tutorials | vectors, systems of linear equations                  |
-|   2   | 09.01-09.03  | 2.2, 2.3^*    |                       | solution sets for linear systems, reduced forms       |
+|   2   | 09.01-09.03  | 2.2, 2.3<sup>*</sup>    |                       | solution sets for linear systems, reduced forms       |
 |   3   | 09.08-09.10  |               |                       | solving Ax=b, linear independence                     |
 |   4   | 09.15-09.17  |               |                       | linear transforms, matrix operations                  |
 |   5   | 09.22-09.24  |               |                       | matrix inverses, factorizations                       |
@@ -21,3 +21,5 @@ Note: This schedule is a rough approximation and subject to change.
 |  15   | 12.01-12.03  |               |                       | graphics transforms, eigenvalues                      |
 |  16   | 12.08-12.10  |               |                       | eigenvalues, Google PageRank                          |
 |  17   | 12.15-12.17  |               |                       | **exam 3** -- Dec 15th -- 7:30-10pm                   |
+
+2.3<sup>*</sup> We'll come back to the bit on elimination by matrices, so don't worry about that for now.
