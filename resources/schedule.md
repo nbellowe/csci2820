@@ -6,9 +6,9 @@ Note: This schedule is a rough approximation and subject to change.
 |:-----:|:------------:| --------------| ----------------------|-------------------------------------------------------|
 |   1   | 08.25-08.27  | 1.1, 2.1, 2.2 | programming tutorials | vectors, systems of linear equations                  |
 |   2   | 09.01-09.03  | 2.2, 2.3, 2.4 |                       | solution sets , matrix operations                     |
-|   3   | 09.08-09.10  |               |                       | solving Ax=b, linear independence                     |
-|   4   | 09.15-09.17  |               |                       | linear transforms, matrix operations                  |
-|   5   | 09.22-09.24  |               |                       | matrix inverses, factorizations                       |
+|   3   | 09.08-09.10  | 2.5, 2.6, 2.7 |                       | inverses, LU Factorization                            |
+|   4   | 09.15-09.17  |               |                       | computational cost, implementation                    |
+|   5   | 09.22-09.24  | 3.1, 3.2, 3.3 |                       | vector spaces, reduced forms                          |
 |   6   | 09.29-10.01  |               |                       | **exam 1** -- Tu: Review Th: Exam                     |
 |   7   | 10.06-10.08  |               |                       | vector spaces, subspaces, bases                       |
 |   8   | 10.13-10.15  |               |                       | determinants                                          |
